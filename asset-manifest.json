@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memory_game/static/css/main.0c337c7a.chunk.css",
+    "main.js": "/memory_game/static/js/main.b1803b88.chunk.js",
+    "main.js.map": "/memory_game/static/js/main.b1803b88.chunk.js.map",
+    "runtime-main.js": "/memory_game/static/js/runtime-main.07af1038.js",
+    "runtime-main.js.map": "/memory_game/static/js/runtime-main.07af1038.js.map",
+    "static/js/2.01b68ab8.chunk.js": "/memory_game/static/js/2.01b68ab8.chunk.js",
+    "static/js/2.01b68ab8.chunk.js.map": "/memory_game/static/js/2.01b68ab8.chunk.js.map",
+    "index.html": "/memory_game/index.html",
+    "static/css/main.0c337c7a.chunk.css.map": "/memory_game/static/css/main.0c337c7a.chunk.css.map",
+    "static/js/2.01b68ab8.chunk.js.LICENSE.txt": "/memory_game/static/js/2.01b68ab8.chunk.js.LICENSE.txt",
+    "static/media/alex-azabache.cd3d6d5b.jpg": "/memory_game/static/media/alex-azabache.cd3d6d5b.jpg",
+    "static/media/amine-m'siouri.38c0e64f.jpg": "/memory_game/static/media/amine-m'siouri.38c0e64f.jpg",
+    "static/media/arthouse-studio-1.9d8ee122.jpg": "/memory_game/static/media/arthouse-studio-1.9d8ee122.jpg",
+    "static/media/arthouse-studio-2.4c77ce56.jpg": "/memory_game/static/media/arthouse-studio-2.4c77ce56.jpg",
+    "static/media/brady-knoll.d4fcab71.jpg": "/memory_game/static/media/brady-knoll.d4fcab71.jpg",
+    "static/media/gianluca-grisenti.132fe679.jpg": "/memory_game/static/media/gianluca-grisenti.132fe679.jpg",
+    "static/media/jeremy-bishop.b326ccc2.jpg": "/memory_game/static/media/jeremy-bishop.b326ccc2.jpg",
+    "static/media/jess-vide.fd393eb0.jpg": "/memory_game/static/media/jess-vide.fd393eb0.jpg",
+    "static/media/luis-dalvan.672949da.jpg": "/memory_game/static/media/luis-dalvan.672949da.jpg",
+    "static/media/michael-block.12afab4d.jpg": "/memory_game/static/media/michael-block.12afab4d.jpg",
+    "static/media/sem-steenbergen.1ac48049.jpg": "/memory_game/static/media/sem-steenbergen.1ac48049.jpg",
+    "static/media/zhaocan-li.2eb73e67.jpg": "/memory_game/static/media/zhaocan-li.2eb73e67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07af1038.js",
+    "static/js/2.01b68ab8.chunk.js",
+    "static/css/main.0c337c7a.chunk.css",
+    "static/js/main.b1803b88.chunk.js"
+  ]
+}
